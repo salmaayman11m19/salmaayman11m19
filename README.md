@@ -1,29 +1,70 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi there, I'm Salma Ayman 👋</h1>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+<h3 align="center">Communications Engineering Student @ Zagazig University</h3>
 
+<p align="center">
+  📡 Exploring the world of Communications | 🤖 AI Automation Enthusiast | 🔧 Microcontrollers & Embedded Systems
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p align="center">
+  <a href="https://www.linkedin.com/in/salma-ayman-078643414" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
+
+### 👩‍💻 About Me
+
+- 🎓 Communications Engineering student at **Zagazig University**
+- 📡 Passionate about **Communications Engineering** — signal processing, networks, and modern comm systems
+- 🤖 Exploring **AI Automation** and how intelligent systems can simplify real-world tasks
+- 🔧 Building hands-on experience with **Microcontrollers** and embedded systems
+- 🌱 Currently learning and growing my skills across these fields, one project at a time
+- 💬 Always open to collaborate on interesting tech ideas!
+
+---
+
+### 🛠️ Interests & Focus Areas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Communications%20Engineering-003366?style=flat-square" alt="Communications Engineering"/>
+  <img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI Automation"/>
+  <img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Microcontrollers"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-1E88E5?style=flat-square" alt="Embedded Systems"/>
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salmaayman11m19&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=salmaayman11m19&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/salma-ayman-078643414" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by! ⭐</i>
+</p>
