@@ -14,12 +14,14 @@
 
 ---
 
-### 👩‍💻 About Me
+### 🧑‍💻 About Me
+
+<img align="right" width="220" src="https://raw.githubusercontent.com/salmaayman11m19/salmaayman11m19/main/assets/coding-illustration.svg" alt="coding illustration"/>
 
 - 🎓 Electronics & Communication Engineering student at **Zagazig University**
 - 📡 Passionate about **Electronics & Communication Engineering** — signal processing, networks, and modern comm systems
-- 🤖 Exploring **AI Automation** and how intelligent systems can simplify real-world tasks
-- 🔧 Building hands-on experience with **Microcontrollers** and embedded systems
+- 🤖 Completed an **AI Automation** course and built several practical automation workflows
+- 🔧 Currently training in the **Microcontrollers Track at NTI** (National Telecommunication Institute)
 - 🌱 Currently learning and growing my skills across these fields, one project at a time
 - 💬 Always open to collaborate on interesting tech ideas!
 
@@ -49,11 +51,25 @@
 
 ---
 
+### 🎯 Currently Learning & Training
+
+- 🔌 **Microcontrollers Track — NTI (National Telecommunication Institute)** *(in progress)*
+- 🤖 Completed **AI Automation** course — built multiple automation workflows using AI tools
+
+---
+
+### 🚀 Featured Projects
+
+- 🍔 **[Salma's Bite — Restaurant Support Bot](https://github.com/salmaayman11m19/n8n-restaurant-support-bot)** — A multi-role AI agent (n8n) that routes customer messages, answers menu questions via RAG, and manages orders end-to-end.
+- 🏠 **[Lead Qualification Agent](https://github.com/salmaayman11m19/n8n_lead_qualification_agent)** — An AI Telegram bot that qualifies real estate leads through conversation, scores them, and logs results to Google Sheets.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=salmaayman11m19&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=salmaayman11m19&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
